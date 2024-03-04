@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\thoblatti\Education Vaud\ETML_XLO-19-23 - Blatti\Projets\1391-Demonstrateur_de_regulation_PID_TPI\5-Hardware\1391-Demonstrateur_PID\1391-Démonstrateur_PID.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=1391-démonstrateur_pid.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=1391-démonstrateur_pid-rectholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\thoblatti\Education Vaud\ETML_XLO-19-23 - Blatti\Projets\1391-Demonstrateur_de_regulation_PID_TPI\5-Hardware\1391-Demonstrateur_PID\1391-Démonstrateur_PID.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR|Scope=Board|Minimum=5.32
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=5.91

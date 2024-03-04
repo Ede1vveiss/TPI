@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:49:26 On 23/03/2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [1391-Démonstrateur_PID.PrjPcb]
+   Generated File[//eduvaud.sharepoint.com/sites/msteams_bb2718/Documents partages/Partages/Blatti/Projets/1391-Demonstrateur_de_regulation_PID_TPI/5-Hardware/1391-Demonstrateur_PID/Assembly/1391-Démonstrateur_PID_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:49:30 On 23/03/2023
