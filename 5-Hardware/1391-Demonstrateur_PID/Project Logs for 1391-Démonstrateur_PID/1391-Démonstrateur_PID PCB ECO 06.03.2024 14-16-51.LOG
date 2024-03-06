@@ -1,0 +1,15 @@
+Added Component: Designator=R6(PRS11R425FS103B1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prs11r-425f-s103b1/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Bourns_03252021_PRS11R_datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "21.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PRS11R-425F-S103B1?qs=IS%252B4QmGtzzo6M96CSwnBdQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=ADC_P Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R6-3
+Added Pin To Net: NetName=3V3 Pin=R6-4
+Added Pin To Net: NetName=NetK1_B19 Pin=R6-5
+Added Member To Class: ClassName=Régulation Member=Component R6 PRS11R-425F-S103B1

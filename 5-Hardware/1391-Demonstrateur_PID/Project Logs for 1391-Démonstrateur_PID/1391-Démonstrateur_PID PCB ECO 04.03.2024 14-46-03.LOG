@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=5V Pin=C3-2
+Removed Pin From Net: NetName=5V Pin=K1-A18
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=ADC Consigne Pin=R5-3
+Change Component Description : Designator=K1 Old Description= New Description=NUCLEO-F070RB
+Change Component Description : Designator=R5 Old Description= New Description=POT 10K OHM 1/4W LINEAR
+Change Component Description : Designator=R1 Old Description= New Description=RES ARRAY 8 RES 200 OHM 16SOIC
+Change Component Description : Designator=R2 Old Description= New Description=RES ARRAY 8 RES 200 OHM 16SOIC
+Change Component Description : Designator=R3 Old Description= New Description=RES ARRAY 8 RES 200 OHM 16SOIC
+Change Component Description : Designator=R4 Old Description= New Description=RES ARRAY 8 RES 200 OHM 16SOIC
+Change component parameters: Designator = "K1" ("K1"); Footprint = "ST_NUCLEO_BRD"; UniqueID = "\JCXWWKQO\WRTVYIAE" ("\JCXWWKQO\WRTVYIAE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "NUCLEO-F070RB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "497-15095-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "10.22000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=12V Pin=K1-A24
+Added Pin To Net: NetName=ADC Consigne Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R5-3
+Added Room: Name=1391-Schéma bloc
+Added Room: Name=Affichage led
+Added Room: Name=Alimentation
+Added Room: Name=Microcontrôleur
+Added Room: Name=Régulation
