@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=ADC_I Pin=R7-3
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=ADC_D Pin=R8-3
+Change component parameters: Designator = "R7" ("R7"); Footprint = "PRS11R425FS103B1"; UniqueID = "\TAAOMRSG\PXVUXNUU" ("\TAAOMRSG\PXVUXNUU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prs11r-425f-s103b1/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Bourns_03252021_PRS11R_datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "21.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PRS11R-425F-S103B1?qs=IS%252B4QmGtzzo6M96CSwnBdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "PRS11R425FS103B1"; UniqueID = "\TAAOMRSG\FHFKPFRF" ("\TAAOMRSG\FHFKPFRF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prs11r-425f-s103b1/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Bourns_03252021_PRS11R_datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "21.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PRS11R-425F-S103B1?qs=IS%252B4QmGtzzo6M96CSwnBdQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_I Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R7-3
+Added Pin To Net: NetName=ADC_D Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R8-3

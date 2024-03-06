@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=ADC_P Pin=R6-3
+Change Footprint: Footprint Not Found POT_AEROBALLE
+Change Component Description : Designator=R5 Old Description=POT 10K OHM 1/4W LINEAR New Description=
+Change component parameters: Designator = "R5" ("R5"); Footprint = "PTA4543-2015DPB103"; UniqueID = "\TAAOMRSG\QZIQBAZX" ("\TAAOMRSG\QZIQBAZX")
+Add Component: Footprint Not Found POT_AEROBALLE
+Added Pin To Net: NetName=ADC_P Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R6-3
+Add Class Member: Failed to add class member : Component R? Potentiometre
