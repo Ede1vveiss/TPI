@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=Commande_Ventilo Pin=K4-1
+Change Component Comment : Designator=R10 Old Comment=0R New Comment=NC
+Change Component Comment : Designator=K4 Old Comment=MC74VHC1G08DBVT1G-Q New Comment=74LVC1G125GV_125
+Change component parameters: Designator = "K4" ("K4"); Footprint = "SOT95P275X110-5N"; UniqueID = "\JCXWWKQO\KDABFPUR" ("\JCXWWKQO\KDABFPUR")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74LVC1G125.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74LVC1G125GV,125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "771-74LVC1G125GV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G125GV125?qs=me8TqzrmIYVyvYuwfV2sAw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "771-74LVC1G125GV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "0.35"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P37" ("P37"); Footprint = "Kingbright_L-424IDT"; UniqueID = "\TAAOMRSG\VUBSWYCA" ("\TAAOMRSG\VUBSWYCA")
+Change component parameters (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IsStocked"; Value = "False"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "L-424IDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "PN-643196"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubCategory"; Value = "Leds"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1142497"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "0.504"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20mA/RD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P38" ("P38"); Footprint = "Kingbright_L-424IDT"; UniqueID = "\TAAOMRSG\KCBSZSUM" ("\TAAOMRSG\KCBSZSUM")
+Change component parameters (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IsStocked"; Value = "False"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "L-424IDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "PN-643196"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubCategory"; Value = "Leds"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1142497"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "0.504"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20mA/RD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "SOIC127P600X175-16N"; UniqueID = "\SCDNCSSX\SHAOIXOV" ("\SCDNCSSX\SHAOIXOV")
+Change component parameters: Designator = "R2" ("R2"); Footprint = "SOIC127P600X175-16N"; UniqueID = "\SCDNCSSX\VAHVRWKG" ("\SCDNCSSX\VAHVRWKG")
+Change component parameters: Designator = "R3" ("R3"); Footprint = "SOIC127P600X175-16N"; UniqueID = "\SCDNCSSX\MQJYGAQD" ("\SCDNCSSX\MQJYGAQD")
+Change component parameters: Designator = "R4" ("R4"); Footprint = "SOIC127P600X175-16N"; UniqueID = "\SCDNCSSX\OWCSPPXZ" ("\SCDNCSSX\OWCSPPXZ")
+Change component parameters: Designator = "R6" ("R6"); Footprint = "PRS11R425FS103B1"; UniqueID = "\TAAOMRSG\QVIBEUOD" ("\TAAOMRSG\QVIBEUOD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prs11r-425f-s103b1/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Bourns_03252021_PRS11R_datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "21.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PRS11R-425F-S103B1?qs=IS%252B4QmGtzzo6M96CSwnBdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "118-PRS11R-425F-S103B1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "3.92"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "PRS11R425FS103B1"; UniqueID = "\TAAOMRSG\PXVUXNUU" ("\TAAOMRSG\PXVUXNUU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prs11r-425f-s103b1/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Bourns_03252021_PRS11R_datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "21.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PRS11R-425F-S103B1?qs=IS%252B4QmGtzzo6M96CSwnBdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "118-PRS11R-425F-S103B1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "3.92"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "PRS11R425FS103B1"; UniqueID = "\TAAOMRSG\FHFKPFRF" ("\TAAOMRSG\FHFKPFRF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prs11r-425f-s103b1/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Bourns_03252021_PRS11R_datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "21.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRS11R-425F-S103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PRS11R-425F-S103B1?qs=IS%252B4QmGtzzo6M96CSwnBdQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "118-PRS11R-425F-S103B1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "652-PRS11R425FS103B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "3.92"; VariantName = "[No Variations]"
+Added Component: Designator=R5(TRIM_PTA4543-2015DPB103)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "652-PTA45432015DPB10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1688415"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "PTA4543-2015DPB103-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "2.07"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Commande_Ventilo Pin=K4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=ADC_Consigne Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R5-3
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=NetK4_1 Pin=R10-1
+Added Pin To Net: NetName=NetK4_1 Pin=R12-2
+Added Net: Name=NetK4_1
+Added Member To Class: ClassName=Régulation Member=Component R5 PTA4543-2015DPB103

@@ -1,0 +1,16 @@
+Added Component: Designator=K4(SOT95P275X110-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74LVC1G125.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74LVC1G125GV,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74LVC1G125GV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G125GV125?qs=me8TqzrmIYVyvYuwfV2sAw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "771-74LVC1G125GV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.35"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=Commande_Ventilo Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K4-3
+Added Pin To Net: NetName=PWM_Ventilo_5V Pin=K4-4
+Added Pin To Net: NetName=5V Pin=K4-5
+Added Member To Class: ClassName=Microcontrôleur Member=Component K4 74LVC1G125GV_125
