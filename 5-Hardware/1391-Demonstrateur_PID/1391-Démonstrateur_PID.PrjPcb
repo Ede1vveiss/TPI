@@ -101,23 +101,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LDLBUCMF
 
 [Document4]
-DocumentPath=1391-Alimentation.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UUHTHHQS
-
-[Document5]
 DocumentPath=1391-Démonstrateur_PID.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXOLPLVX
 
-[Document6]
+[Document5]
 DocumentPath=1391-Schéma bloc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IZEWUUDB
 
-[Document7]
+[Document6]
 DocumentPath=1391-Régulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDQMBRUU
 
-[Document8]
+[Document7]
 DocumentPath=1391-Microcontrôleur.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NAXNZCLD
 
-[Document9]
+[Document8]
 DocumentPath=1391-Affichage led.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,6 +184,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCVNSYDP
+
+[Document9]
+DocumentPath=EJ503A\EJ503A.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YBYWNLNN
 
 [Document10]
 DocumentPath=PRS11R-425F-S103B1.SchLib
@@ -220,6 +220,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BKMTJRNP
 
 [Document11]
+DocumentPath=EJ503A\MPD_EJ503A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OQDKACQB
+
+[Document12]
 DocumentPath=Add Components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDHSLKWF
 
-[Document12]
+[Document13]
 DocumentPath=1391-Démonstrateur_PID.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,8 +270,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGCAKCTP
 
-[Document13]
-DocumentPath=1391-V2_Démonstrateur_PID.PcbLib
+[Document14]
+DocumentPath=1391-Démonstrateur_PID.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJCOROUO
 
-[Document14]
+[Document15]
 DocumentPath=PRS11R425FS103B1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,8 +304,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOWHHFIK
 
-[Document15]
-DocumentPath=1391-Démonstrateur_PID.PcbLib
+[Document16]
+DocumentPath=MC74VHC1G08DBVT1G-Q.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -302,7 +319,41 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PPUVCDHV
+DocumentUniqueId=AQMPLMLF
+
+[Document17]
+DocumentPath=SOT95P275X110-5N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ANFKHAXP
+
+[Document18]
+DocumentPath=1391-Démonstrateur_PID.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Manufacturing\1391-Démonstrateur_PID-RectHoles.TXT
@@ -374,7 +425,7 @@ Value=Démonstrateur-PID
 
 [Parameter2]
 Name=SchNumber
-Value=1391.5200.01
+Value=1391.5201.00
 
 [Parameter3]
 Name=SchDrawnDate
@@ -398,15 +449,15 @@ Value=Démonstrateur-PID
 
 [Parameter8]
 Name=PcbNumber
-Value=1391.5100.01
+Value=1391.5101.00
 
 [Parameter9]
 Name=PcbDrawnDate
-Value=2023-03-16
+Value=2024-03-18
 
 [Parameter10]
 Name=PcbDrawnBy
-Value=TBI
+Value=EFV
 
 [Parameter11]
 Name=PcbCheckedDate
@@ -422,11 +473,11 @@ Value=Démonstrateur-PID
 
 [Parameter14]
 Name=BomNumber
-Value=1391.5600.01
+Value=1391.5601.00
 
 [Parameter15]
 Name=BomDrawnDate
-Value=2024-
+Value=2024-03
 
 [Parameter16]
 Name=BomDrawnBy
@@ -442,7 +493,7 @@ Value=-
 
 [Parameter19]
 Name=AsyNumber
-Value=1391.5000.01
+Value=1391.5001.00
 
 [Configuration1]
 Name=Sources
@@ -1072,41 +1123,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=Web ReviewOutputName
-OutputName18=Web Review Data
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

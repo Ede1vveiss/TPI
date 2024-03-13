@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=12V Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=5V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=5V Pin=C12-2
+Removed Pin From Net: NetName=Commande_Ventilo Pin=K4-2
+Removed Pin From Net: NetName=12V Pin=T1-1
+Removed Pin From Net: NetName=5V Pin=T1-3
+Removed Pin From Net: NetName=GND Pin=T1-4
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-3
+Removed Pin From Net: NetName=5V Pin=X17-1
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C8 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C15 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=C16 Old Footprint=CAPC1608X08M New Footprint=CAPC2012X08M
+Change Component Footprint: Designator=K4 Old Footprint=IC BUFFER NON-INVERT 6V 5TSSOP New Footprint=SOT95P275X110-5N
+Change Component Footprint: Designator=X16 Old Footprint=Keystone_5000 New Footprint=MPD_EJ503A
+Change Component Footprint: Designator=X1 Old Footprint=MPD_EJ503A New Footprint=Keystone_5000
+Change Component Footprint: Designator=R9 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R10 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R11 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R12 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R13 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R14 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R15 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R16 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R17 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Footprint: Designator=R18 Old Footprint=RESC1608X06M New Footprint=RESC2012X06M
+Change Component Comment : Designator=C4 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C6 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C7 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C8 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C16 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=K4 Old Comment=74HC1G125GW,125 New Comment=MC74VHC1G08DBVT1G-Q
+Change Component Comment : Designator=X16 Old Comment=5000 New Comment=
+Change Component Comment : Designator=X1 Old Comment=EJ503A New Comment=5000
+Change Component Comment : Designator=R10 Old Comment=NC New Comment=0R
+Change Component Comment : Designator=R12 Old Comment=NC New Comment=0R
+Added Component: Designator=X27(Keystone_5000)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-119866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Testpoints"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.428.012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.2708"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=K1-A18
+Added Pin To Net: NetName=Commande_Ventilo Pin=K4-1
+Added Pin To Net: NetName=GND Pin=X16-2
+Added Pin To Net: NetName=GND Pin=X16-3
+Added Pin To Net: NetName=5V Pin=X27-1
+Change Net Name : Old Net Name=ADC Consigne New Net Name=ADC_Consigne
+Added Pin To Net: NetName=NetK4_2 Pin=K4-2
+Added Pin To Net: NetName=NetK4_2 Pin=R10-1
+Added Pin To Net: NetName=NetK4_2 Pin=R12-2
+Added Net: Name=NetK4_2
+Added Member To Class: ClassName=Microcontrôleur Member=Component K4 MC74VHC1G08DBVT1G-Q
+Added Member To Class: ClassName=Microcontrôleur Member=Component X27 5000
